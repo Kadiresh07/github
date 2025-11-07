@@ -1,3 +1,4 @@
 .h1{
     color: blueviolet;
+    scroll-snap-type: mandatory;
 }
