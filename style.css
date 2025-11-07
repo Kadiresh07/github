@@ -5,4 +5,7 @@
 
 .p{
     background-color: aqua;
+    height: 34;
+    background-attachment: scroll;
+    display: block;
 }
