@@ -1,2 +1,6 @@
 second text added
+<<<<<<< HEAD
+=======
+xyz added
+>>>>>>> 55c38343d4c71fc9dd21f3cf2e6d7fbb357f4595
 added zyx
