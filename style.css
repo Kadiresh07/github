@@ -2,3 +2,7 @@
     color: blueviolet;
     scroll-snap-type: mandatory;
 }
+
+.p{
+    background-color: aqua;
+}
